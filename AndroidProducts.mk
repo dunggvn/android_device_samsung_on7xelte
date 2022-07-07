@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_on7xelte.mk
+    $(LOCAL_DIR)/aosp_on7xelte.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_on7xelte-user \
-    havoc_on7xelte-userdebug \
-    havoc_on7xelte-eng
+    aosp_on7xelte-user \
+    aosp_on7xelte-userdebug \
+    aosp_on7xelte-eng
